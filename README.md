@@ -28,7 +28,14 @@ From there I was able to use the pre-existing DB context and scaffold the corres
 
 
 # Styling of the Index Page <a id="index-page"></a>
-I was able to create a functioning navigation bar that redirects users to the database of entries as well as the ability to create new games for said database. I also employed bootstrap to style the nav bar as well as the footer to provide a symmetrical UI design for anyone who visits the site.
+After creating my model, the next step was styling the index page. To do this I employed a number of resources which included: Bootstrap, Font Awesome, and of course CSS. This story was more difficult than I anticipated with getting everything to work accordingly, however, I am proud of the outcome.
+
+[![index.png](https://i.postimg.cc/SRTGtf4m/index.png)](https://postimg.cc/0KSmzmr4)
+
+Features I was able to implement:
+- If a rental was damaged a font aweseom red X would appear to the left and if the rental was not damaged a green check would be present. 
+- If the rental damage description (third column) was too long a horizontal ellipsis would shorten the description for readability's sake.
+- A vertical ellipsis containing Create, Edit, Delete functions appears upon hovering any of the rows.
 
 
 ```
