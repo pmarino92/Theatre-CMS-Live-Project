@@ -30,6 +30,7 @@ From there I was able to use the pre-existing DB context and scaffold the corres
 # Styling of the Index Page <a id="index-page"></a>
 I was able to create a functioning navigation bar that redirects users to the database of entries as well as the ability to create new games for said database. I also employed bootstrap to style the nav bar as well as the footer to provide a symmetrical UI design for anyone who visits the site.
 
+
 ```
 <head>
     <meta charset="UTF-8">
