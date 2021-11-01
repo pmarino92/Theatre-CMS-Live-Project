@@ -33,7 +33,7 @@ After creating my model, the next step was styling the index page. To do this I 
 [![index.png](https://i.postimg.cc/SRTGtf4m/index.png)](https://postimg.cc/0KSmzmr4)
 
 Features I was able to implement:
-- If a rental was damaged a font aweseom red X would appear to the left and if the rental was not damaged a green check would be present. 
+- If a rental was damaged a font awesome red X would appear to the left and if the rental was not damaged a green check would be present. 
 - If the rental damage description (third column) was too long a horizontal ellipsis would shorten the description for readability's sake.
 - A vertical ellipsis containing Create, Edit, Delete functions appears upon hovering any of the rows.
 
